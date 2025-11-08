@@ -1,11 +1,8 @@
----
-date: 2025-10-28
-title: |
-  **Smart Garden Wireless Control System**  
+
+  # **Smart Garden Wireless Control System**  
   Comprehensive Scientific and Educational Report  
   Prepared by the STEM Club Members  
   Bunker Hill Community College — Boston, MA
----
 
 # Abstract
 

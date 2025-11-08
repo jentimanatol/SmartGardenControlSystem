@@ -1,12 +1,7 @@
----
-author:
-- STEM Club (Bunker Hill Community College)
-date: 2025-10-28
-title: |
-  **Smart Garden System**  
-  Arduino Mega 2560 HUB (TFT + nRF24L01+)  
-  Academic Report
----
+
+ # Arduino Mega 2560 HUB (TFT + nRF24L01+)  
+  
+
 
 # Abstract
 
