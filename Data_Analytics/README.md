@@ -1,6 +1,6 @@
 <div class="center">
 
-**RStudio Presentation and Workflow Guide**  
+# **RStudio Presentation and Workflow Guide**  
 Sensor Data Analysis using Sensor_Data.csv and Machine Learning (lm)  
 Author: Anatolie Jentimir, STEM Club — Bunker Hill Community College
 
